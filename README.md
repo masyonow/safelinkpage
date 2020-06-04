@@ -1,0 +1,2 @@
+# safelinkpage
+Dipasang di halaman
